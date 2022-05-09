@@ -1,0 +1,6 @@
+name: KasixMCAuthenticator
+version: '${project.version}'
+main: com.itedya.kasixmcauthenticator.KasixMCAuthenticator
+api-version: 1.18
+authors: [ itedya ]
+website: itedya.com
